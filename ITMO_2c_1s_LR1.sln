@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO_2c_1s_LR1", "ITMO_2c_1s_LR1.csproj", "{7DEE55F8-AC65-4EA3-A904-BE35A0080D76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DEE55F8-AC65-4EA3-A904-BE35A0080D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEE55F8-AC65-4EA3-A904-BE35A0080D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEE55F8-AC65-4EA3-A904-BE35A0080D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEE55F8-AC65-4EA3-A904-BE35A0080D76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
