@@ -16,7 +16,7 @@ class Lab1
         printArr(arr);
 
         Console.WriteLine("Number of elements in specific range: " + findCount(arr, -1515, 4555));
-        Console.WriteLine("Sum after max: " + getSumAfterMax(arr));
+        Console.WriteLine("Sum after Max: " + getSumAfterMax(arr));
         SortArrayByAbsoluteValue(arr);
         Console.WriteLine("Sorted Array:");
         printArr(arr);
