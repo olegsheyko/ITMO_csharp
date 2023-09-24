@@ -2,6 +2,8 @@
 
 // Задание - часть 1
 
+using System;
+
 class Lab1
 {
     enum Direction
